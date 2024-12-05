@@ -276,7 +276,7 @@
 # maximal 27 tables found like in Skia.ttf
 # 46 different table names mentioned on Apple specification
 # skip 1st sequence of DOS 2 backup with path separator (\~92 or /~47) misinterpreted as table number
->4	ubeshort	<47		
+>4	ubeshort	<48
 # skip bad examples with garbage table names like in a5.show HYPERC MAC
 # tag names consist of up to four characters padded with spaces at end like
 # BASE C2PA DSIG OS/2 Zapf acnt glyf cvt vmtx xref ...
